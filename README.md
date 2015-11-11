@@ -1,7 +1,7 @@
 ## Project Description
 WebAPI clean base template echoes current time in JSON. +CORS +Windows Auth
 
-I tried several ways to create WebAPI 2.2 projects with a clean simple baseline without all those extra MVC GUI components.  "HelloController" echoes back the current system time to show a current 200 reply (not 304 cached).
+WebAPI 2.2 project and clean simple baseline without all those extra MVC GUI components.  "HelloController" echoes back the current system time to show a current 200 reply (not 304 cached).
 
 
 ## Get Started
