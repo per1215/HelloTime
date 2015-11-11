@@ -14,17 +14,17 @@ WebAPI 2.2 project and clean simple baseline without all those extra MVC GUI com
 
 ## Screenshots
 * Solution Explorer showing controller classes (GET/POST/PUT/DELETE)
-![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/doc/1.png)
+![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/docs/1.png)
 * Controller source with key highlights (CORS + Windows Auth)
-![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/doc/2.png)
+![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/docs/2.png)
 * IE running IIS Express locally
-![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/doc/3.png)
+![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/docs/3.png)
 * IE download "/api/Hello" JSON
-![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/doc/4.png)
+![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/docs/4.png)
 * Verify JSON with NotePad++
-![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/doc/5.png)
+![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/docs/5.png)
 * Fiddler "Options tab > [X] Automatically Authenticate"
-![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/doc/6.png)
+![image](https://raw.githubusercontent.com/spjeff/HelloTime/master/docs/6.png)
 
 ## Notes
 * Windows Authentication is enabled
