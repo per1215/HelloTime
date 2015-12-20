@@ -9,7 +9,10 @@ using System.Web.Http.Cors;
 namespace HelloTime.Controllers
 {
     // CORS - Enable HTTP calls from any source URL
-    [EnableCors("*","*","*")]
+    [EnableCors(origins: "*",
+        headers: "*",
+        methods: "*",
+        SupportsCredentials = true)]
     [Authorize]
     public class HelloController : ApiController
     {
