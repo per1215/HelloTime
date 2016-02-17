@@ -9,6 +9,8 @@ using System.Web.Http.Cors;
 namespace HelloTime.Controllers
 {
     // CORS - Enable HTTP calls from any source URL
+	//      - To allow specific caller DNS domains only use this syntax:
+	//        (origins: "http://domain1, http://domain1",
     [EnableCors(origins: "*",
         headers: "*",
         methods: "*",
