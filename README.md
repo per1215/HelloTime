@@ -35,3 +35,5 @@ WebAPI 2.2 project and clean simple baseline without all those extra MVC GUI com
 ## Contact
 Please drop a line to [@spjeff](https://twitter.com/spjeff) or [spjeff@spjeff.com](mailto:spjeff@spjeff.com)
 Thanks!  =)
+
+![image](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)
