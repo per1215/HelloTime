@@ -5,6 +5,7 @@ WebAPI 2.2 project and clean simple baseline without all those extra MVC GUI com
 
 
 ## Get Started
+* ZIP file at <https://github.com/spjeff/HelloTime/blob/master/HelloTime/deploy/HelloTime.zip>
 * Download ZIP and extract
 * Open SLN with Visual Studio 2013 or higher
 * Open "Package Manager Console" and run "Update-Package" to download assemblies
