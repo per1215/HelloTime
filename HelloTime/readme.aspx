@@ -13,9 +13,8 @@
 
         <ul>
             <li>Works best on Visual Studio 2013 or higher</li>
-            <li>Open "Package Manager Console" and run "Update-Package" to download assemblies</li>
             <li>F5 to build and run</li>
-            <li>Open http://whateversite/api/Hello to execute GET method and see JSON reply</li>
+            <li>Open <a href="/api/Hello">/api/Hello</a> to execute GET method and see JSON reply</li>
         </ul>
         <hr />
 
