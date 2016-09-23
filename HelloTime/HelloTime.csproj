@@ -133,9 +133,6 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Content Include="deploy\HelloTime.deploy-readme.txt" />
-    <Content Include="deploy\HelloTime.SetParameters.xml" />
-    <Content Include="deploy\HelloTime.SourceManifest.xml" />
     <Content Include="Global.asax" />
     <Content Include="readme.aspx" />
     <Content Include="Web.config">
@@ -143,8 +140,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="deploy\HelloTime.deploy.cmd" />
-    <Content Include="deploy\HelloTime.zip" />
     <None Include="Properties\PublishProfiles\WD.pubxml">
       <SubType>Designer</SubType>
     </None>
